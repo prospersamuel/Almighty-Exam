@@ -41,6 +41,7 @@
 #search::placeholder{
     color: white;
 }
-*{
-    background-color: rgba(0, 0, 0, 0.075);
+footer{
+    background-color: rgba(0, 0, 0, 0.205);
+    color: white;
 }
